@@ -1,0 +1,11 @@
+Model Information:
+* title:	futurístic weapon
+* source:	https://sketchfab.com/3d-models/futuristic-weapon-27f1b69847c64196b470305c294cd9bd
+* author:	Eduardo.Salas (https://sketchfab.com/Eduardo.Salas)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "futurístic weapon" (https://sketchfab.com/3d-models/futuristic-weapon-27f1b69847c64196b470305c294cd9bd) by Eduardo.Salas (https://sketchfab.com/Eduardo.Salas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
